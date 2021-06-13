@@ -1,6 +1,6 @@
 {
-    "name": "" ,
-    "short_name": "",
+    "name": "anywhere_budget" ,
+    "short_name": "anywhere_budget",
     "icons": [{
         "src":"icons/icon-72x72.png",
         "sizes":"72x72",
