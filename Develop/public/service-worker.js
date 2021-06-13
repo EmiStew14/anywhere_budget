@@ -1,4 +1,4 @@
-const CACHE_NAME = 'anywhere-budget-cache-v1';
+const CACHE_NAME = 'anywhere_budget-cache-v1';
 const DATA_CACHE_NAME = 'data-cache-v1';
 
 const FILES_TO_CACHE = [
