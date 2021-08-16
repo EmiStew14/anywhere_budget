@@ -29,7 +29,7 @@
   ## Usage:
   Input transaction costs and watch the chart actively respond on and off line
   ## Languages:
-  JavaScript,Node.js,MongooseDB, Express
+  JavaScript, NPM, morgan, compression, transaction-api, Node.js, MongooseDB, Express.JS
   
   ## License:
     ISC
