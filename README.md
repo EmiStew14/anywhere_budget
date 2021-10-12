@@ -37,7 +37,7 @@
     ISC
 
   ## App
-    * Deployed:  https://serene-bastion-01859.herokuapp.com/
+   https://serene-bastion-01859.herokuapp.com/
   ## Questions: 
     * Name: Emily Stewart
     * Github: ( https://github.com/EmiStew14 )
